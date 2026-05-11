@@ -1,9 +1,9 @@
 import { motion } from "framer-motion";
 import { ChevronRight, Clock } from "lucide-react";
-import article1Img from "../assets/article1.image.webp";
-import article2Img from "../assets/article2.image.webp";
+import article1Img from "../assets/article1_image.jpg";
+import article2Img from "../assets/article2.image.jpg";
 import article3Img from "../assets/article3.image.jpg";
-import article4Img from "../assets/article4.image.webp";
+import article4Img from "../assets/article4.image.jpg";
 import article5Img from "../assets/article5.image.jpg";
 
 const Blog = () => {
